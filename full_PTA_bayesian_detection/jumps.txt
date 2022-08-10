@@ -1,0 +1,4 @@
+draw_from_prior 0.21
+covarianceJumpProposalSCAM 0.29
+covarianceJumpProposalAM 0.29
+draw_from_bwm_prior 0.21
